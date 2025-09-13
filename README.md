@@ -26,20 +26,16 @@ The code read ENSO and eruption data.\
 The code read global mean temperature. \
 -- 13. Global Correlations.R\
 The code calculate the correlations between global temperature and ENSO.\
--- 14. Correlation in moving months.R\
-The correlations in moving 3-month periods are calcualte for previous and next years.\
--- 15. Correlation using different Temp and Vol dataset.R\
-We validate our results using alternative tempearture and volcanic data. \
--- 21. Gridded Cor_Alternative Temperature.R\
+-- 21. Gridded Correlations.R\
 Calculate correlations at gridded resolution.\
--- 41. Reconstruct ENSO_Alternative Temperature.R\
+-- 41. Reconstruct ENSO.R\
 We reconstruct ENSO using land temperature as predictors.\
--- 81. Examine filters.R\
-We conduct experiments for pass fitlers at different frequencies.\
 -- 91. Plot Divergence.R\
 Plot Fig. 1\
 -- 92. Correlation Summary.R\
 Plot Fig. 2\
+-- 93. Plot Zonal GP.R\
+Plot Fig. 3\
 -- 94. Plot comparison with CMIP6.R\
 Plot Fig. 4\
 -- 95. Plot reconstructed ENSO.R\
