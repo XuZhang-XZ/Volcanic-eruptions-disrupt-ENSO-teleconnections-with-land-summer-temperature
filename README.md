@@ -14,7 +14,7 @@ Here we explain the scripts in the "Code" folder.
 ### 3.1 Load packages and functions.
 The codes, entitled "0. library.r" in the “Load packages” folder, aims to load packages we used.
 
-- 0. library.r\
+-- 0. library.r\
 The codes load all packages that are used in this study. Meanwhile, the functions in "functions" folder are sourced for following calculation.\
 Then, you can easily identify the source code of any unknown functions by ctrl + left click.
 
