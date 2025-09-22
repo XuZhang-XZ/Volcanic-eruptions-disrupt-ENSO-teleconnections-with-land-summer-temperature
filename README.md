@@ -45,4 +45,15 @@ Plot Fig. 5\
 4.1. All the figures will be saved to the folder named "Figures"\
 4.2. Before running our code, please make sure that all packages specified in the "0. library.R" have been installed.\
 4.3. Readers are required to download relevant data in the "Data Availability" section.\
-4.4. The source data for figures are available in the "Source Data.xlsx"
+4.4. The source data for figures are available in the "Source Data.xlsx"\
+
+Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
