@@ -1,4 +1,4 @@
-# Volcanic-eruptions-disrupt-ENSO-teleconnections-on-land-summer-temperature
+# Volcanic-eruptions-disrupt-ENSO-teleconnections-with-land-summer-temperature
 
 This respotiry includes all code that generate main results in our manuscript.
 
